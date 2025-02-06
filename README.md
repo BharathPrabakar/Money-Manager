@@ -15,12 +15,7 @@ Backend Development – API, authentication, database setup.
 Frontend Development – Build UI, integrate backend.
 Testing & Deployment – Security checks, cloud deployment.
 4. Tech Stack
-Frontend: React.js, Tailwind CSS
-Backend: Node.js + Express / Django
-Database: MongoDB / PostgreSQL
-Security: JWT, OAuth, AES encryption
-Tools: Chart.js (analytics), Firebase (real-time sync), Stripe (payments)
-Future Enhancements
-🔹 AI-based expense analysis
-🔹 Bank account integration
-🔹 Voice commands for transaction logging
+Frontend: React.js, CSS
+Backend: Node.js + Express
+Database: MongoDB
+
