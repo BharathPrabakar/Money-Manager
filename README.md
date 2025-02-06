@@ -5,12 +5,12 @@
 Money Manager is a comprehensive personal finance management system designed to help users efficiently track their income, expenses, budgets, and savings. With insightful analytics and smart financial tools, users can make informed decisions to achieve financial stability and growth.
 
 ### Objectives
-- **Real-time Financial Tracking** – Monitor income and expenses with real-time updates.
-- **Smart Budgeting & Expense Management** – Set budgets and receive intelligent recommendations.
-- **Bill Reminders & Financial Reports** – Never miss a payment and access detailed financial summaries.
-- **Secure & User-Friendly Interface** – Ensure data safety with an intuitive and seamless experience.
-- **Inflation Protection Strategies** – Get personalized suggestions to minimize the impact of inflation.
-- **Investment Insights** – Explore investment opportunities based on spending patterns and savings.
+- **Real-time Financial Tracking** - Monitor income and expenses with real-time updates.
+- **Smart Budgeting & Expense Management** - Set budgets and receive intelligent recommendations.
+- **Bill Reminders & Financial Reports** - Never miss a payment and access detailed financial summaries.
+- **Secure & User-Friendly Interface** - Ensure data safety with an intuitive and seamless experience.
+- **Inflation Protection Strategies** - Get personalized suggestions to minimize the impact of inflation.
+- **Investment Insights** - Explore investment opportunities based on spending patterns and savings.
 
 ### Project Workflow
 1. **Planning & Design**  
