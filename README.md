@@ -31,7 +31,7 @@ Money Manager is a comprehensive personal finance management system designed to 
 - **Backend:** Node.js with Express for robust API development.
 - **Database:** MongoDB for flexible and efficient data management.
 
-## Layout Image
+## Layout_Image
 ![Login || Sign_up](./Photos/1000077385.jpg)
 ![Pages](./Photos/1000077384.jpg)
 ![Pages](./Photos/1000077383.jpg)
